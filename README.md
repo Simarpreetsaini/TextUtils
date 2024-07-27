@@ -1,5 +1,5 @@
-Hey!! I am create a TextUtils project using HTML,CSS &some javascript functions ,toggle button etc..
-MY Github Profile-:
+Hey!! I am create a TextUtils project using HTML,CSS &some javascript functions ,toggle button etc..<br>
+MY Github Profile-:https://github.com/Simarpreetsaini
 
 Here are some outputs of my project -:
 
