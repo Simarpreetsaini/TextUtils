@@ -1,4 +1,4 @@
-Hey!! I am create a TextUtils project using HTML,CSS &some javascript functions ,toggle button etc..<br>
+Hey!! I am create a TextUtils project using HTML,CSS & some javascript functions ,toggle button etc..<br>
 My Github Profile-:https://github.com/Simarpreetsaini
 
 Here are some outputs of my project -:
